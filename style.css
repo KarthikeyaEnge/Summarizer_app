@@ -1,0 +1,10 @@
+.stMarkdownContainer {
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: rgb(0, 1, 19);
+    color: #9acaf2e4;
+}

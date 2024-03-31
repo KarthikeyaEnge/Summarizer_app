@@ -1,6 +1,10 @@
 simplet5-epoch-2-train-loss-2.0858-val-loss-2.4389/
 simplet5-epoch-4-train-loss-0.9785-val-loss-1.5034/
+simplet5-epoch-2-train-loss-0.9301-val-loss-1.1733/
+simplet5-epoch-1-train-loss-1.117-val-loss-1.1577/
+simplet5-epoch-3-train-loss-0.7793-val-loss-1.2121/
 model.ckpt-20240101T110402Z-001/
+TrainingMode.py
 .bin
 .model
 .json
